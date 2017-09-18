@@ -1,0 +1,19 @@
+<root>
+  <items>
+    <item1>
+      <tag1>1</tag1>            
+      <sub>
+        <sub1>10 </sub1>
+        <sub2>20 </sub2>
+      </sub>
+    </item1>
+
+    <item2>
+      <tag1>1</tag1>            
+      <sub>
+        <sub1> </sub1>
+        <sub2> </sub2>
+      </sub>        
+    </item2>
+  </items>
+</root>

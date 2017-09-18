@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+  <test name="Test">
+    <classes>
+    <parameter name="browser" value="chrome"/>
+     <!--  <class name="com.cloudleaf.webautomation.SampleTest"/> -->
+      <class name="com.cloudleaf.webautomation.CloudLeafFinalFlow"/>
+    
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

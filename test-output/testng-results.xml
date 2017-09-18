@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="169201" started-at="2017-09-18T11:21:13Z" finished-at="2017-09-18T11:24:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="169201" started-at="2017-09-18T11:21:13Z" finished-at="2017-09-18T11:24:02Z">
+      <class name="com.cloudleaf.webautomation.CloudLeafFinalFlowModified">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.cloudleaf.webautomation.CloudLeafFinalFlowModified@1ed4004b]" name="beforeTest" is-config="true" duration-ms="8261" started-at="2017-09-18T16:51:13Z" finished-at="2017-09-18T16:51:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="CloudLeafCompleteFlow()[pri:0, instance:com.cloudleaf.webautomation.CloudLeafFinalFlowModified@1ed4004b]" name="CloudLeafCompleteFlow" duration-ms="159117" started-at="2017-09-18T16:51:21Z" finished-at="2017-09-18T16:54:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloudLeafCompleteFlow -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.cloudleaf.webautomation.CloudLeafFinalFlowModified@1ed4004b]" name="getResult" is-config="true" duration-ms="436" started-at="2017-09-18T16:54:01Z" finished-at="2017-09-18T16:54:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CloudLeafCompleteFlow status=SUCCESS method=CloudLeafFinalFlowModified.CloudLeafCompleteFlow()[pri:0, instance:com.cloudleaf.webautomation.CloudLeafFinalFlowModified@1ed4004b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="closeBroswer()[pri:0, instance:com.cloudleaf.webautomation.CloudLeafFinalFlowModified@1ed4004b]" name="closeBroswer" is-config="true" duration-ms="1349" started-at="2017-09-18T16:54:01Z" finished-at="2017-09-18T16:54:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBroswer -->
+      </class> <!-- com.cloudleaf.webautomation.CloudLeafFinalFlowModified -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
